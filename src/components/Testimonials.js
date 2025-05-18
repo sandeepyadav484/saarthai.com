@@ -14,7 +14,7 @@ const Testimonials = () => {
           </div>
           <div className="flex flex-col items-center">
             <img src={wealthlyGif} alt="Wealthly Product Demo" className="rounded-lg shadow max-h-[32rem] md:max-h-[36rem] w-auto" />
-            <a href="https://wealthly.com" target="_blank" rel="noopener noreferrer" className="mt-4 text-primary font-semibold text-lg underline">wealthly.com</a>
+            <a href="https://wealthly.in" target="_blank" rel="noopener noreferrer" className="mt-4 text-primary font-semibold text-lg underline">wealthly.in</a>
           </div>
         </div>
       </div>
